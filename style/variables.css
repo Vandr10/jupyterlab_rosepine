@@ -352,8 +352,8 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-mirror-editor-property-color: var(--rp-plt-foam);
   --jp-mirror-editor-operator-color: var(--rp-plt-pine);
   --jp-mirror-editor-comment-color: var(--rp-plt-muted);
-  --jp-mirror-editor-string-color: var(--rp-plt-gold);
-  --jp-mirror-editor-string-2-color: var(--rp-plt-gold);
+  --jp-mirror-editor-string-color: #A2C9AA;
+  --jp-mirror-editor-string-2-color: #A2C9AA;
   --jp-mirror-editor-meta-color: var(--rp-plt-subtle);
   --jp-mirror-editor-qualifier-color: var(--rp-plt-muted);
   --jp-mirror-editor-builtin-color: var(--rp-plt-rose);
